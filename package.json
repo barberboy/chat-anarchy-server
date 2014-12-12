@@ -1,5 +1,5 @@
 {
-  "name": "chat-anarchy-namebot",
+  "name": "chat-anarchy-server",
   "version": "1.0.0",
   "description": "The core chat anarchy webserver.",
   "repository": "https://github.com/barberboy/chat-anarchy-timebot",
